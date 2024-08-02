@@ -117,3 +117,6 @@ Abbildung: JSON Kursdaten Parameter.{class=pp-figure}
 ![](images/json-yahoo-parameter.png)
 
 Bei den meisten Diensten muss man sich registrieren, um einen API-Schlüssel zu erhalten, eine eindeutige Kennung, die den Nutzer authentifiziert und den Zugang zum Dienst ermöglicht. Zwar bieten zahlreiche Finanzdienste scheinbar kostenlose API-Schlüssel an, doch erweisen sich ihre Nutzungsbedingungen und langfristigen Verpflichtungen oft als unzureichend. Portfolio Performance hat aus Kompatibilitätsgründen mehrere dieser Dienste in seiner Liste der Kursquellen-Anbieter behalten; z.B. Alpha Vantage, eodhd, .... In der Regel empfiehlt es sich, Portfolio Report und Yahoo Finance für ein typisches Portfolio zu nutzen.
+
+### Beispiel Onvista API
+https://www.onvista.de/ hat ein breites Spektrum an Assets und dazu auch sehr lang vorgehaltene historische Daten. Wer historische Daten von vor 10 Jahren und mehr benötigt (bspw. für das Tracken von Rentenversicherunge etc.). Auf der Seite eines Assets kann man aktuell unter "Alle Kurse" ganz unten unter "Historische Kurse zu XYZ". 
